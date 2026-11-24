@@ -1,0 +1,1 @@
+{"name":"llm-evals-demo","private":true,"type":"module","scripts":{"test":"node --test src/*.test.mjs","calibrate":"node src/calibrate.mjs","eval":"node src/eval.mjs","gate":"node src/gate.mjs","report":"node src/report.mjs"}}
